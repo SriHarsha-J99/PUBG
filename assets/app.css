@@ -1,0 +1,18 @@
+html {
+  --text-color-normal: #0a244d;
+  --text-color-light: #8cabd9;
+
+
+body{
+	background-color: red;
+}
+
+.container
+{
+	  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+
+hr.style-one { border: 0; height: 1px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc); }
